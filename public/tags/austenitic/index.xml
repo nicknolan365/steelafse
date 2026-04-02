@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Austenitic on Steel AF</title>
+    <link>http://localhost:1313/tags/austenitic/</link>
+    <description>Recent content in Austenitic on Steel AF</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 28 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/austenitic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The 5 Families of Stainless Steel (And How to Tell Them Apart)</title>
+      <link>http://localhost:1313/posts/five-families-of-stainless-steel/</link>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/five-families-of-stainless-steel/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Stainless steel&amp;rdquo; isn&amp;rsquo;t one material. It&amp;rsquo;s a family of at least five distinct types, each with different properties, different strengths, and different use cases. Lumping them together is like saying &amp;ldquo;wood&amp;rdquo; without distinguishing between balsa and oak.&lt;/p&gt;&#xA;&lt;p&gt;Here&amp;rsquo;s how the five families break down and why it matters for your next project.&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-austenitic&#34;&gt;1. Austenitic&lt;/h2&gt;&#xA;&lt;p&gt;This is what most people think of when they hear &amp;ldquo;stainless steel.&amp;rdquo; The 300-series grades — 304, 316, 321 — are all austenitic. They&amp;rsquo;re non-magnetic, highly corrosion-resistant, and very formable. They can&amp;rsquo;t be hardened by heat treatment, only by cold working.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

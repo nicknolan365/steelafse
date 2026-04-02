@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Steel AF</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Steel AF</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>4140</title>
+      <link>http://localhost:1313/tags/4140/</link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/4140/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>4340</title>
+      <link>http://localhost:1313/tags/4340/</link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/4340/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Alloy Steel</title>
+      <link>http://localhost:1313/tags/alloy-steel/</link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/alloy-steel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Material Selection</title>
+      <link>http://localhost:1313/tags/material-selection/</link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/material-selection/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>304</title>
+      <link>http://localhost:1313/tags/304/</link>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/304/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>316</title>
+      <link>http://localhost:1313/tags/316/</link>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/316/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Austenitic</title>
+      <link>http://localhost:1313/tags/austenitic/</link>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/austenitic/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Stainless Steel</title>
+      <link>http://localhost:1313/tags/stainless-steel/</link>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/stainless-steel/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

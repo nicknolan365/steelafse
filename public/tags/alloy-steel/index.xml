@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alloy Steel on Steel AF</title>
+    <link>http://localhost:1313/tags/alloy-steel/</link>
+    <description>Recent content in Alloy Steel on Steel AF</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/alloy-steel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>4140 vs 4340 Steel: When Does the Upgrade Actually Matter?</title>
+      <link>http://localhost:1313/posts/4140-vs-4340-steel/</link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/4140-vs-4340-steel/</guid>
+      <description>&lt;p&gt;If you&amp;rsquo;ve ever spec&amp;rsquo;d a part that needs to be strong, tough, and heat-treatable, you&amp;rsquo;ve probably landed on 4140 or 4340. They&amp;rsquo;re two of the most popular alloy steels in manufacturing, and on paper they look similar. Both are chromium-molybdenum steels. Both machine well. Both respond to heat treatment.&lt;/p&gt;&#xA;&lt;p&gt;So why does 4340 cost more, and when does it actually matter?&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-quick-difference&#34;&gt;The Quick Difference&lt;/h2&gt;&#xA;&lt;p&gt;The short answer is nickel. 4340 contains approximately 1.65-2.00% nickel, while 4140 has none. That nickel addition gives 4340 better toughness, deeper hardenability, and higher fatigue resistance — especially in larger cross-sections.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

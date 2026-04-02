@@ -1,0 +1,18 @@
+{{ define "main" }}
+<section class="archive-section">
+  <div class="container">
+    <header class="archive-header">
+      <h1>{{ .Title }}</h1>
+    </header>
+
+    <div class="taxonomy-list">
+      {{ range .Pages.ByTitle }}
+      <a href="{{ .Permalink }}" class="taxonomy-item">
+        <span class="taxonomy-name">{{ .Title }}</span>
+        <span class="taxonomy-count">{{ len .Pages }}</span>
+      </a>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}

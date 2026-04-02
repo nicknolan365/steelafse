@@ -1,0 +1,49 @@
+baseURL = "https://steelafse.com/"
+languageCode = "en-us"
+title = "Steel AF"
+description = "Steel is everywhere. It rusts, it sparks, it bends without breaking — and most of what you think you know about it is wrong."
+
+[params]
+  tagline = "Steel is everywhere. It rusts, it sparks, it bends without breaking — and most of what you think you know about it is wrong."
+  author = "Nick Nolan"
+  # Add your Google Analytics ID here if you want tracking
+  # googleAnalytics = "G-XXXXXXXXXX"
+
+[markup]
+  [markup.highlight]
+    style = "monokai"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[pagination]
+  pagerSize = 10
+
+[outputs]
+  home = ["HTML", "RSS"]
+
+[sitemap]
+  changeFreq = "weekly"
+  priority = 0.5
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
+  [[menu.main]]
+    name = "Categories"
+    url = "/categories/"
+    weight = 3
+  [[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 4

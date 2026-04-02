@@ -1,0 +1,38 @@
+{{ define "main" }}
+<section class="archive-section">
+  <div class="container">
+    <header class="archive-header">
+      <h1>{{ .Title }}</h1>
+      {{ with .Description }}
+      <p>{{ . }}</p>
+      {{ end }}
+      <p class="post-count">{{ len .Pages }} {{ if eq (len .Pages) 1 }}post{{ else }}posts{{ end }}</p>
+    </header>
+
+    {{ if .Pages }}
+    <div class="posts-grid">
+      {{ range .Pages.ByDate.Reverse }}
+      <article class="post-card">
+        <div class="post-card-content">
+          <div class="post-meta">
+            <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2, 2006" }}</time>
+            {{ with .Params.categories }}
+            {{ range first 1 . }}
+            <span class="post-category">{{ . }}</span>
+            {{ end }}
+            {{ end }}
+          </div>
+          <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+          <p class="post-excerpt">{{ .Summary | plainify | truncate 160 }}</p>
+        </div>
+      </article>
+      {{ end }}
+    </div>
+
+    {{ template "_internal/pagination.html" . }}
+    {{ else }}
+    <p class="no-posts">No posts found.</p>
+    {{ end }}
+  </div>
+</section>
+{{ end }}

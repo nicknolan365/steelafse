@@ -1,0 +1,16 @@
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-inner">
+      <div class="footer-info">
+        <p class="footer-title">{{ .Site.Title }}</p>
+        <p class="footer-tagline">{{ .Site.Params.tagline }}</p>
+      </div>
+      <div class="footer-links">
+        <a href="{{ "index.xml" | absURL }}" title="RSS Feed">RSS</a>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <p>&copy; {{ now.Year }} {{ .Site.Title }}. All rights reserved.</p>
+    </div>
+  </div>
+</footer>
