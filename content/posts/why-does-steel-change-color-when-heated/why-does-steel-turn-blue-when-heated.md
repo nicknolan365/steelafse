@@ -1,3 +1,11 @@
+---
+title: "Why Does Steel Turn Blue When Heated?"
+date: 2026-04-07
+categories: ["Behavior"]
+tags: ["oxidation", "heat tint", "carbon steel"]
+description: "Steel turns blue when heated because a thin oxide layer forms on the surface. Here's the science behind heat tint colors and what temperature causes each one."
+---
+
 # Why Does Steel Turn Blue When Heated?
 
 I was drilling through some 1018 steel plates the other day and pulled out a chip that looked like a tiny metallic rainbow — silver at one end, straw gold in the middle, and deep blue at the tip. If you've ever cut, welded, or ground steel, you've probably seen this. But what's actually happening?
